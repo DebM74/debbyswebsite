@@ -1,25 +1,25 @@
 ﻿@font-face {
   font-family: DancingScript;
-  src: url("/Debby/fonts/DancingScript-Regular.ttf");
+  src: url("fonts/DancingScript-Regular.ttf");
 }
 
 @font-face {
   font-family: DancingScript Bold;
-  src: url("/Debby/fonts/DancingScript-Bold.ttf");
+  src: url("fonts/DancingScript-Bold.ttf");
 }
 @font-face {
   font-family: LHF Becker;
-  src: url("/Debby/fonts/LHF_Becker_Monogram_English.ttf");
+  src: url("fonts/LHF_Becker_Monogram_English.ttf");
 }
 
 @font-face {
   font-family: Roboto;
-  src: url("/Debby/fonts/Roboto-Regular.ttf");
+  src: url("fonts/Roboto-Regular.ttf");
 }
 
 @font-face {
   font-family: Roboto-Bold;
-  src: url("/Debby/fonts/Roboto-Bold.ttf");
+  src: url("fonts/Roboto-Bold.ttf");
 }
 
 :root {
@@ -53,7 +53,7 @@ html {
   height: auto;
   width: 100%;
   padding: 0;
-  background-image: url("/Debby/images/background/AdobeStock_280102415.jpeg");
+  background-image: url("images/background/AdobeStock_280102415.jpeg");
   background-size: cover;
   background-repeat: repeat;
 }
