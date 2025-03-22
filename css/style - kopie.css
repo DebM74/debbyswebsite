@@ -1,5 +1,4 @@
-﻿
-:root {
+﻿:root {
   --white: #fff;
   --black: #000;
   --brown1: #4e3316;
@@ -15,7 +14,7 @@
 
 body {
   font-family: "Montserrat", sans-serif;
-  background-image: url("/Debby/images/background/AdobeStock_280102415.jpeg");
+  background-image: url("images/background/AdobeStock_280102415.jpeg");
   background-blend-mode: lighten;
   background-size: cover;
   background-repeat: no-repeat;
