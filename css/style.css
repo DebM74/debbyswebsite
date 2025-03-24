@@ -15,7 +15,6 @@
 body {
   font-family: "Montserrat", sans-serif;
   background-image: url("../images/background/home.jpg");
-  background-blend-mode: lighten;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
