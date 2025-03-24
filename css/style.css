@@ -9,12 +9,12 @@
   --green3: #8caa75;
   --gray1: #808080;
   --gray2: #7d7f7d;
-  --gray3: #a1a1a1;
+  --gray3: #a1a1a1;background_h
 }
 
 body {
   font-family: "Montserrat", sans-serif;
-  background-image: url("../images/background/home.jpg");
+  background-image: url("../images/background_home.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
