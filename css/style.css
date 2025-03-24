@@ -15,11 +15,11 @@
 body {
   font-family: "Montserrat", sans-serif;
   background-image: url("/images/background_home.jpg");
-  background-blend-mode: lighten;
+  /*background-blend-mode: lighten;*/
   background-size: cover;
-  background-repeat: no-repeat;
+  /*background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center;
+  background-position: center;*/
 }
 
 header {
