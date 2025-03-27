@@ -14,8 +14,8 @@
 
 body {
   font-family: "Montserrat", sans-serif;
-  background-color: #8caa75;
-  background-image: url(./images/background-home.jpg);
+  /*background-color: #8caa75;*/
+  background-image: url(../images/background-home.jpg);
   background-blend-mode: lighten;
   background-size: cover;
   /*background-repeat: no-repeat;
