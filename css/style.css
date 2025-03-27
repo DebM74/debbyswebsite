@@ -36,7 +36,7 @@ header {
   margin-top: 1%;
   margin-bottom: -2%;
   margin-left: center;
-  width: 225px;
+  width: 250px;
   height: auto;
 }
 
@@ -45,7 +45,7 @@ div {
 }
 
 .maintenance img{
-  width: 500px;
+  width: 450px;
   height: auto;
   border-radius: 20px;
   border: #fff 3px solid;
